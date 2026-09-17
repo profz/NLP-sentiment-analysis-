@@ -1,5 +1,11 @@
 # NLP Sentiment Analyzer
 
+<html>
+  <h2 align="center">
+    <img src="pngfind.com-mca-logo-png-6131138.png" width="250"/>
+  </h2>
+</html>
+
 A minimal and lightweight CLI-based sentiment analysis tool trained on customer reviews. Classifies text as Positive, Neutral, or Negative with confidence scores.
 
 ## Requirements
